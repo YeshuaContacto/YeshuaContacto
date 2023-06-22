@@ -5,8 +5,10 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
+[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-9457A1?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
+
 
 
 
