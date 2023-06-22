@@ -8,6 +8,7 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic-9457A1?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
+[![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 
 
 
