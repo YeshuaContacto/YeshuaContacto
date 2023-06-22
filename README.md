@@ -1,8 +1,18 @@
-### Hi there 👋
+# Hola mi nombre es Yeshua! 👋
+## Desarrollador Junior de Python
+
+###Hola! Soy un entusiasta desarrollador junior de Python con pasión por la programación y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones y soluciones utilizando el lenguaje de programación Python y sus diversos frameworks y bibliotecas.
+
+## Tecnologías:
 
 
-**YeshuaContacto/YeshuaContacto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 <!--
+**YeshuaContacto/YeshuaContacto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
