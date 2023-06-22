@@ -1,7 +1,7 @@
 # Hola mi nombre es Yeshua! 👋
 ## Desarrollador Junior de Python
 
-### Hola! Soy un entusiasta desarrollador junior de Python con pasión por la programación y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones y soluciones utilizando el lenguaje de programación Python y sus diversos frameworks y bibliotecas.
+Hola! Soy un entusiasta desarrollador junior de Python con pasión por la programación y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones y soluciones utilizando el lenguaje de programación Python y sus diversos frameworks y bibliotecas.
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
