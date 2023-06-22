@@ -5,6 +5,7 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 
 
 
