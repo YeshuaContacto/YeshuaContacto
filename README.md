@@ -9,6 +9,8 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 [![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+
 
 
 ## Encuéntrame en:
