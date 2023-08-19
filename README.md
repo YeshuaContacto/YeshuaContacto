@@ -13,6 +13,7 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)](https://www.json.org/)
 [![DB Browser (SQLite)](https://img.shields.io/badge/DB_Browser_(SQLite)-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)](https://github.com/sqlitebrowser/sqlitebrowser)
+[![PyQtGraph](https://img.shields.io/badge/PyQtGraph-3F7F7F?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](http://www.pyqtgraph.org/)
 
 
 ## Encuéntrame en:
