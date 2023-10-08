@@ -15,7 +15,7 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![DB Browser (SQLite)](https://img.shields.io/badge/DB_Browser_(SQLite)-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)](https://github.com/sqlitebrowser/sqlitebrowser)
 [![PyQtGraph](https://img.shields.io/badge/PyQtGraph-3F7F7F?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](http://www.pyqtgraph.org/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
 
 ## Encuéntrame en:
 
