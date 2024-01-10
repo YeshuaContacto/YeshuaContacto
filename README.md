@@ -8,6 +8,8 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![AutoIt](https://img.shields.io/badge/AutoIt-steelblue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 ![VBA](https://img.shields.io/badge/VBA-4CAF50?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)
+![VBA](https://img.shields.io/badge/VBA-8674a1?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)
+
 [![PySide6](https://img.shields.io/badge/PySide6-Qt-4A90E2?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010)](https://wiki.qt.io/Qt_for_Python)
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
