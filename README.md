@@ -20,12 +20,6 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeshua_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yeshua-s-4294a4229/)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-![Ubicación](https://img.shields.io/badge/Ubicación-Map_Marker-008080?style=for-the-badge&labelColor=101010)
-
-
 
 
 
