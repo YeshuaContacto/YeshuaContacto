@@ -16,6 +16,9 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![PyQtGraph](https://img.shields.io/badge/PyQtGraph-3F7F7F?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](http://www.pyqtgraph.org/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)
+![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+
 
 ## Encuéntrame en:
 
