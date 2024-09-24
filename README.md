@@ -13,12 +13,12 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)](https://www.json.org/)
 [![DB Browser (SQLite)](https://img.shields.io/badge/DB_Browser_(SQLite)-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)](https://github.com/sqlitebrowser/sqlitebrowser)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-ffffff?style=for-the-badge&logo=google-colab&logoColor=F9AB00)](https://colab.research.google.com/)
 [![PyQtGraph](https://img.shields.io/badge/PyQtGraph-3F7F7F?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](http://www.pyqtgraph.org/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)
 ![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-ffffff?style=for-the-badge&logo=google-colab&logoColor=F9AB00)](https://colab.research.google.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
 
