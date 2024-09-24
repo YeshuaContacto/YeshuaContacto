@@ -18,6 +18,11 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)
 ![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=101010)](https://colab.research.google.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
+
+
 
 
 ## Encuéntrame en:
