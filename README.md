@@ -24,6 +24,8 @@ Hola! Soy un entusiasta desarrollador junior de Python con pasión por la progra
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)](https://matplotlib.org/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-ffffff?style=for-the-badge&logo=mysql&logoColor=00758F)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791)]()
+[![Anaconda](https://img.shields.io/badge/Anaconda-ffffff?style=for-the-badge&logo=anaconda&logoColor=44A833)]()
+[![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000)]()
 
 
 
