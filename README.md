@@ -52,8 +52,8 @@ Hola! Soy un analista de datos con una sólida experiencia en manipulación, vis
 ## Librerías y Paquetes de Python:
 <Br>
 
-|[![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)|[![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)|[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)](https://matplotlib.org/)|
-|---|---|---|
+|[![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)|[![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)|[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)](https://matplotlib.org/)|[![Seaborn](https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)]()
+|---|---|---|---|
 
 <Br>
 
