@@ -27,8 +27,11 @@ Hola! Soy un analista de datos con una sólida experiencia en manipulación, vis
 ## Frameworks:
 <Br>
 
-|[![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000)]()|[![PySide6](https://img.shields.io/badge/PySide6-ffffff?style=for-the-badge&logo=qt&logoColor=41CD52)](https://wiki.qt.io/Qt_for_Python)|[![Tkinter](https://img.shields.io/badge/Tkinter-ffffff?style=for-the-badge&logo=tkinter&logoColor=FFD700)]()|[![PyQtGraph](https://img.shields.io/badge/PyQtGraph-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)](http://www.pyqtgraph.org/)|![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=DD0031)|
-|---|---|---|---|---|
+## Frameworks:
+<Br>
+
+|[![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000)]()|[![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)|[![PySide6](https://img.shields.io/badge/PySide6-ffffff?style=for-the-badge&logo=qt&logoColor=41CD52)](https://wiki.qt.io/Qt_for_Python)|[![Tkinter](https://img.shields.io/badge/Tkinter-ffffff?style=for-the-badge&logo=tkinter&logoColor=FFD700)]()|[![PyQtGraph](https://img.shields.io/badge/PyQtGraph-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)](http://www.pyqtgraph.org/)|![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=DD0031)|
+|---|---|---|---|---|---|
 
 <Br>
 
