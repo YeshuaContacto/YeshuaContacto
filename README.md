@@ -60,6 +60,12 @@ Hola! Soy un analista de datos con una sólida experiencia en manipulación, vis
 
 <Br>
 
+## Testing:
+<Br>
+| [![pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge\&logo=pytest\&logoColor=0A9EDC)](https://docs.pytest.org/) |
+|---|
+
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeshua_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yeshua-s-4294a4229/)
