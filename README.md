@@ -63,8 +63,8 @@ Hola! Soy un analista de datos con una sólida experiencia en manipulación, vis
 ## Testing:
 <Br>
 
-|[![pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=0A9EDC)](https://docs.pytest.org/)|
-|---|
+|[![pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=0A9EDC)](https://docs.pytest.org/)|[![Playwright](https://img.shields.io/badge/Playwright-ffffff?style=for-the-badge&logo=playwright&logoColor=2EAD33)](https://playwright.dev/)
+|---|---|
 
 
 ## Encuéntrame en:
